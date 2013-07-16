@@ -1,0 +1,6 @@
+{
+	"name":"vehiclefits/zf1-empty",
+	"replace": {
+	    "zendframework/zendframework1": "*"
+	}
+}
