@@ -1,6 +1,3 @@
 {
-	"name":"joshribakoff/zf1-empty",
-	"replace": {
-	    "zendframework/zendframework1": "*"
-	}
+	"name":"joshribakoff/zf1-empty"
 }
